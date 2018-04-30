@@ -1,4 +1,4 @@
-var name = "Joe"
+var name = "TJ"
 var height = "74"
 
 console.log("Name:")
