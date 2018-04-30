@@ -1,5 +1,5 @@
 var name = "TJ Schoonmaker"
-var height = 74 + ("inches")
+var height = 74
 
 console.log("Name:")
 console.log(name)
